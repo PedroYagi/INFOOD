@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Divulgação de alimentos de Informática</title>
+    <link href="https://fonts.googleapis.com/css?family=Shrikhand&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="imgs/Touro.jpeg">
+  </head>
+  <body>
+    <div class="Bruna">
+      <h1>Bruna</h1>
+      <h3>Prestígio:</h3>
+      <p></p>
+      <h3>Chocolate com Ninho:</h3>
+      <p></p>
+      <h3>Chocolate:</h3>
+      <p></p>
+      <h3>Cenoura com Chocolate:</h3>
+      <p></p>
+      <h3>Ninho com Morango:</h3>
+      <p></p>
+      <h3>Chocolate com Morango:</h3>
+      <p></p>
+    </div>
+    <div class="Henrique">
+      <h1>Henrique</h1>
+      <h3>Pirulito:</h3>
+      <p></p>
+    </div>
+    <div class="Letícia">
+      <h1>Letícia</h1>
+      <h3>Cenoura com Chocolate:</h3>
+      <p></p>
+      <h3>Chocolate:</h3>
+      <p></p>
+      <h3>Leito Ninho:</h3>
+      <p></p>
+      <h3>Oreo:</h3>
+      <p></p>
+      <h3>Limão:</h3>
+      <p></p>
+    </div>
+    <div class="Thaís">
+      <h1>Thaís</h1>
+      <h3>Doce de Leite:</h3>
+      <p></p>
+    </div>
+    <a href="index.html">Inicial</a>
+  </body>
+  <script type="text/javascript">
+  let n=0, preco1=4.50, preco2=4.00,preco3=3.50, preco4=0.50,preco5=1.0,resul=0;
+  n=prompt("Quantos bolos da Letícia você deseja? (Chocolate, Cenoura com chocolate, Leite Ninho, Oreo ou Limão)",n);
+  resul+=n*preco1;
+  n=prompt("Quantos bolos de R$4,00 da Bruna você deseja? (Chocolate com ninho ou Prestígio)",n);
+  resul+=n*preco2;
+  n=prompt("Quantos bolos de R$3,50 da Bruna você deseja? (Chocolate ou Cenoura com chocolate)",n);
+  resul+=n*preco3;
+  n=prompt("Quantos pirulitos do Henrique você deseja?",n);
+  resul+=n*preco4;
+  n=prompt("Quantos doces de leite da Thaís você deseja?",n);
+  resul+=n*preco5;
+
+  alert("R$"+resul);
+  </script>
+</html>
