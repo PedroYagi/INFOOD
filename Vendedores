@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Divulgação de alimentos de Informática</title>
+    <link href="https://fonts.googleapis.com/css?family=Shrikhand&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="imgs/Touro.jpeg">
+  </head>
+  <body>
+    <div class="Bruna">
+      <h1>Bruna</h1>
+      <p></p>
+    </div>
+    <div class="Henrique">
+      <h1>Henrique</h1>
+      <p></p>
+    </div>
+    <div class="Letícia">
+      <h1>Letícia</h1>
+      <p></p>
+    </div>
+    <div class="Thaís">
+      <h1>Thaís</h1>
+      <p></p>
+    </div>
+    <a href="index.html">Inicial</a>
+  </body>
+</html>
