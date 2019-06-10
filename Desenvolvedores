@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Divulgação de alimentos de Informática</title>
+    <link href="https://fonts.googleapis.com/css?family=Shrikhand&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="imgs/Touro.jpeg">
+  </head>
+  <body>
+    <div id="David">
+    <h1>David Nunes Ribeiro</h1>
+    <h3></h3>
+    <img src="" alt="">
+  </div>
+    <div id="João">
+    <h1>João Vitor Lima Gomes</h1>
+    <h3>Oiie !! Meu nome é João Vitor, tenho 15 anos e sou aluno de Informática no Cefet. No meu tempo livre gosto de assistir séries, ler livros e sair com meus amigos ...</h3>
+    <img src="imgs/João Vitor.jpeg" alt="">
+  </div>
+    <div id="Letícia">
+    <h1>Letícia Araújo Ribeiro</h1>
+    <h3></h3>
+    <img src="" alt="">
+  </div>
+    <div id="Yagi">
+    <h1>Pedro Henrique Yagi de Almeida</h1>
+    <h3>Tenho 15 anos, estudo no CEFET o curso técnico-integrado em informática. Gosto de jogos, animes, séries e filmes e tenho 7 gatos. Fui responsável principalmente pelo JavaScript.</h3>
+    <img src="imgs/Yagi.jpeg" alt="">
+  </div>
+    <a href="index.html">Inicial</a>
+  </body>
+</html>
